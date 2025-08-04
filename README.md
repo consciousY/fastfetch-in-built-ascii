@@ -14,4 +14,4 @@ it will create a config file ~/.config/fastfetch/config.jsonc
 
 you are all good to go.
 
-NOTE: this is only for Cachy OS
+NOTE: this ascii is only for Cachy OS
